@@ -1,0 +1,71 @@
+@font-face {
+    font-family: Poppins-Light;
+    src: url("./Poppins/Poppins-Light.ttf");
+  }
+  @font-face {
+    font-family: Poppins-Medium;
+    src: url("./Poppins/Poppins-Medium.ttf");
+  }
+  @font-face {
+    font-family: Poppins-Regular;
+    src: url("./Poppins/Poppins-Regular.ttf");
+  }
+
+  @font-face {
+    font-family: Poppins-Thin;
+    src: url("./Poppins/Poppins-Thin.ttf");
+  }
+
+  @font-face {
+    font-family: Poppins-SemiBold;
+    src: url("./Poppins/Poppins-SemiBold.ttf");
+  }
+
+
+  @font-face {
+    font-family: Roboto;
+    src: url("./Roboto/Roboto-Light.ttf");
+  }
+
+body{
+    font-family: Poppins-Thin;
+    font-weight: 100;
+    padding: 0px;
+    margin: 0px;
+}
+.header {
+    /* background-color: #0f2530;   */
+    /* background-repeat:repeat-y; */
+    background-image: url("./backgroundImage.png");
+    height: 380px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.navigaton{
+    height: 40px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+    font-family: Poppins-Regular;
+}
+.slider{
+    margin-left: 40px;
+    /* text-align: center; */
+
+}
+.sliderText{
+    margin-top: 60px;
+    color: white;
+    opacity: 0.8;
+}
+.DarkNavy{
+    color: #0f2530;
+}
+.WhiteLine{
+    background-color: white;
+    /* width: 60px; */
+    height: 2px;
+    margin-left: 74px;
+}
