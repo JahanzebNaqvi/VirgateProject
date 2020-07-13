@@ -3,6 +3,8 @@ import Nav from 'react-bootstrap/Nav';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
+// import { facoffee } from "@fortawesome/free-solid-svg-icons";
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 class Navigation extends React.Component {
     render() {
         return (
@@ -22,6 +24,7 @@ class Navigation extends React.Component {
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link className="DarkNavy" eventKey="Search">Search</Nav.Link>
+                            {/* <FontAwesomeIcon icon="coffee" /> */}
                         </Nav.Item>
                         {/* <Nav.Item>
     <Nav.Link eventKey="disabled" disabled>
