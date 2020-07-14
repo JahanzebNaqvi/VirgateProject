@@ -5,6 +5,7 @@ class TextFieldSearch extends React.Component {
   render() {
     return (
       <>
+      <label> Search Box</label>
       <FormText/>
       </>
     )

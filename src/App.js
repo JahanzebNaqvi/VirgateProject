@@ -1,7 +1,11 @@
 import React from 'react';
 import Header from './Header'
-import SearchBox from './SearchBox'
 import './App.css';
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { faEnvelope, faKey,faSearch } from '@fortawesome/free-solid-svg-icons';
+import SearchBox from './SearchBox'
+
+library.add(faEnvelope, faKey,faSearch);
 
 class App extends React.Component {
   render() {
