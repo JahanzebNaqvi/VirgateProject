@@ -132,7 +132,13 @@ body{
   }
   .NavyLine{
     background-color: #0f2530;
-    /* width: 60px; */
     height: 4px;
     margin-left: 20px;
+  }
+  .DealContent{
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .DealsImage{
+    height: 200px;
   }
