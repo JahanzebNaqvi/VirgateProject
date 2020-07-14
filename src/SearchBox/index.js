@@ -17,13 +17,13 @@ class SearchBox extends React.Component {
                     <Col md="8">
                         <Row>
                             <Col md="4">
-                            <TextFieldSearch/>  
+                            <TextFieldSearch label="Search and Find" placeholder="Title, keyword, address, zip or property id ..."/>  
           </Col>
                             <Col md="4">
-                                lo
+                            <TextFieldSearch label="Location" placeholder="Singapore, Singapore"/>  
           </Col>
                             <Col md="4">
-                                typ
+                            <TextFieldSearch label="Type" placeholder="Select"/>  
           </Col>
                         </Row>
                     </Col>

@@ -69,3 +69,24 @@ body{
     height: 2px;
     margin-left: 74px;
 }
+.SearchInput{
+    /* position: relative; */
+    margin: 0px;
+}
+.SearchLabel{
+    margin-top: -15px;
+    /* margin-left: 20px; */
+    position: absolute;
+}
+.SearchText{
+    width: 300px;
+    height: 70px;
+    margin-top: -25px;  
+    margin-left: -20px;
+    font-size: 13px;
+    border: none;
+}
+.SearchText::placeholder {
+    color: red;
+    margin-left: 100px !important;
+  }
