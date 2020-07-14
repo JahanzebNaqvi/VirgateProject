@@ -71,6 +71,9 @@ body{
 .DarkNavy{
     color: #0f2530;
 }
+.poppins-bold{
+  font-family:Poppins-Regular ;
+}
 .WhiteLine{
     background-color: white;
     /* width: 60px; */
@@ -135,10 +138,44 @@ body{
     height: 4px;
     margin-left: 20px;
   }
+  .DealNavyLine{
+    background-color: #0f2530;
+    height: 1px;
+  }
+  .DealContentCard{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
   .DealContent{
     margin-top: 30px;
     margin-bottom: 30px;
   }
   .DealsImage{
     height: 200px;
+    width: 100%;
+  }
+  .DealTitle{
+    margin-top: 15px;
+  }
+  
+  .DealAddress{
+    margin-top: 1px;
+    opacity: 0.7;
+    font-size: 12px;
+  }
+  .Attribute{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .AttributeName{
+    font-size: 11px;
+    font-family: poppins-bold;
+    text-align: left;
+    opacity: 0.8;
+  }
+  .AttributeValue{
+    font-size: 12px;
+    font-family: poppins-bold;
+    text-align: right;
+    opacity: 0.6;
   }
