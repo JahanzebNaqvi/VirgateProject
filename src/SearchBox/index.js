@@ -9,12 +9,12 @@ import TextFieldSearch from './TextSearchField';
 class SearchBox extends React.Component {
     render() {
         return (
-            <Container fluid="md">
+            <Container className="SearchBox">
                 <Row>
                     <Col md="2">
 
                     </Col>
-                    <Col md="8">
+                    <Col md="10">
                         <Row>
                             <Col md="4">
                             <TextFieldSearch label="Search and Find" placeholder="Title, keyword, address, zip or property id ..."/>  
