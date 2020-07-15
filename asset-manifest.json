@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/VirgateProject/static/css/main.825ab662.chunk.css",
-    "main.js": "/VirgateProject/static/js/main.2a3af727.chunk.js",
-    "main.js.map": "/VirgateProject/static/js/main.2a3af727.chunk.js.map",
-    "runtime-main.js": "/VirgateProject/static/js/runtime-main.6e87226f.js",
-    "runtime-main.js.map": "/VirgateProject/static/js/runtime-main.6e87226f.js.map",
-    "static/js/2.cef69003.chunk.js": "/VirgateProject/static/js/2.cef69003.chunk.js",
-    "static/js/2.cef69003.chunk.js.map": "/VirgateProject/static/js/2.cef69003.chunk.js.map",
-    "index.html": "/VirgateProject/index.html",
-    "precache-manifest.501950ec1f7467f5b0a13c63722436fa.js": "/VirgateProject/precache-manifest.501950ec1f7467f5b0a13c63722436fa.js",
-    "service-worker.js": "/VirgateProject/service-worker.js",
-    "static/css/main.825ab662.chunk.css.map": "/VirgateProject/static/css/main.825ab662.chunk.css.map",
-    "static/js/2.cef69003.chunk.js.LICENSE.txt": "/VirgateProject/static/js/2.cef69003.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/VirgateProject/static/media/backgroundImage.1e6d95e7.png",
-    "static/media/bunglow1.jpg": "/VirgateProject/static/media/bunglow1.8837705a.jpg",
-    "static/media/bunglow2.jpg": "/VirgateProject/static/media/bunglow2.80279a88.jpg",
-    "static/media/bunglow3.jpg": "/VirgateProject/static/media/bunglow3.942110ef.jpg"
+    "main.css": "/virgate_project/static/css/main.b0a976cc.chunk.css",
+    "main.js": "/virgate_project/static/js/main.705ab1f3.chunk.js",
+    "main.js.map": "/virgate_project/static/js/main.705ab1f3.chunk.js.map",
+    "runtime-main.js": "/virgate_project/static/js/runtime-main.4c282602.js",
+    "runtime-main.js.map": "/virgate_project/static/js/runtime-main.4c282602.js.map",
+    "static/js/2.cef69003.chunk.js": "/virgate_project/static/js/2.cef69003.chunk.js",
+    "static/js/2.cef69003.chunk.js.map": "/virgate_project/static/js/2.cef69003.chunk.js.map",
+    "index.html": "/virgate_project/index.html",
+    "precache-manifest.165a77801cacc0bdf3a3940a67cb895c.js": "/virgate_project/precache-manifest.165a77801cacc0bdf3a3940a67cb895c.js",
+    "service-worker.js": "/virgate_project/service-worker.js",
+    "static/css/main.b0a976cc.chunk.css.map": "/virgate_project/static/css/main.b0a976cc.chunk.css.map",
+    "static/js/2.cef69003.chunk.js.LICENSE.txt": "/virgate_project/static/js/2.cef69003.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/virgate_project/static/media/backgroundImage.1e6d95e7.png",
+    "static/media/bunglow1.jpg": "/virgate_project/static/media/bunglow1.8837705a.jpg",
+    "static/media/bunglow2.jpg": "/virgate_project/static/media/bunglow2.80279a88.jpg",
+    "static/media/bunglow3.jpg": "/virgate_project/static/media/bunglow3.942110ef.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e87226f.js",
+    "static/js/runtime-main.4c282602.js",
     "static/js/2.cef69003.chunk.js",
-    "static/css/main.825ab662.chunk.css",
-    "static/js/main.2a3af727.chunk.js"
+    "static/css/main.b0a976cc.chunk.css",
+    "static/js/main.705ab1f3.chunk.js"
   ]
 }
