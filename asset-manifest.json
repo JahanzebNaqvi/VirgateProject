@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/VirgateProject/static/css/main.825ab662.chunk.css",
+    "main.js": "/VirgateProject/static/js/main.2a3af727.chunk.js",
+    "main.js.map": "/VirgateProject/static/js/main.2a3af727.chunk.js.map",
+    "runtime-main.js": "/VirgateProject/static/js/runtime-main.6e87226f.js",
+    "runtime-main.js.map": "/VirgateProject/static/js/runtime-main.6e87226f.js.map",
+    "static/js/2.cef69003.chunk.js": "/VirgateProject/static/js/2.cef69003.chunk.js",
+    "static/js/2.cef69003.chunk.js.map": "/VirgateProject/static/js/2.cef69003.chunk.js.map",
+    "index.html": "/VirgateProject/index.html",
+    "precache-manifest.501950ec1f7467f5b0a13c63722436fa.js": "/VirgateProject/precache-manifest.501950ec1f7467f5b0a13c63722436fa.js",
+    "service-worker.js": "/VirgateProject/service-worker.js",
+    "static/css/main.825ab662.chunk.css.map": "/VirgateProject/static/css/main.825ab662.chunk.css.map",
+    "static/js/2.cef69003.chunk.js.LICENSE.txt": "/VirgateProject/static/js/2.cef69003.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/VirgateProject/static/media/backgroundImage.1e6d95e7.png",
+    "static/media/bunglow1.jpg": "/VirgateProject/static/media/bunglow1.8837705a.jpg",
+    "static/media/bunglow2.jpg": "/VirgateProject/static/media/bunglow2.80279a88.jpg",
+    "static/media/bunglow3.jpg": "/VirgateProject/static/media/bunglow3.942110ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e87226f.js",
+    "static/js/2.cef69003.chunk.js",
+    "static/css/main.825ab662.chunk.css",
+    "static/js/main.2a3af727.chunk.js"
+  ]
+}
