@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a93f5ef2d0be0b4bead4eb56bf3b4026",
+    "revision": "52a7c1fac5738ed986fe0ec219f306a0",
     "url": "/VirgateProject/index.html"
   },
   {
-    "revision": "5a30d2f87414779568ca",
+    "revision": "3d144501872b530d74a5",
     "url": "/VirgateProject/static/css/main.825ab662.chunk.css"
   },
   {
-    "revision": "d27f034f08a09b98ed95",
-    "url": "/VirgateProject/static/js/2.cef69003.chunk.js"
+    "revision": "f3466eddcf00e638ddeb",
+    "url": "/VirgateProject/static/js/2.f657bc01.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/VirgateProject/static/js/2.cef69003.chunk.js.LICENSE.txt"
+    "url": "/VirgateProject/static/js/2.f657bc01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a30d2f87414779568ca",
-    "url": "/VirgateProject/static/js/main.2a3af727.chunk.js"
+    "revision": "3d144501872b530d74a5",
+    "url": "/VirgateProject/static/js/main.710349bb.chunk.js"
   },
   {
-    "revision": "1769dda4c446969290e3",
-    "url": "/VirgateProject/static/js/runtime-main.6e87226f.js"
+    "revision": "1936326626311b6ec13f",
+    "url": "/VirgateProject/static/js/runtime-main.bb5236f5.js"
   },
   {
     "revision": "c23534acbeddbaadfd0ab2d2bbfdfc84",
